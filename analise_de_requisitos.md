@@ -32,7 +32,9 @@ Cliente:
 ### 2.1 Requisitos do Usuário
 
 O usuário alvo aqui é o Cliente, ele realiza as ações especificadas no
-[diagrama de caso de uso](caso_de_uso.puml).
+[diagrama de caso de uso](caso_de_uso.puml) e para dois destes casos de uso,
+fiz o caso de uso estruturado, que podem ser encontrados na pasta
+[casos_estruturados/](casos_estruturados/).
 
 ### 2.2 Requisitos Não Funcionais
 
