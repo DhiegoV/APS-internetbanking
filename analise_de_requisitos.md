@@ -18,8 +18,8 @@ obtenção de nota, imagino, esta análise me foi requerida.
 
 O suposto banco cliente necessita que seus clientes, usuários principais do
 sistema, sejam capazes de realizar as ações definidas no 
-[diagrama de caso de uso][caso_de_uso.png], cujo código fonte pode ser
-encontrado [aqui][src/caso_de_uso.puml].
+[diagrama de caso de uso](caso_de_uso.png), cujo código fonte pode ser
+encontrado [aqui](src/caso_de_uso.puml).
 
 ### 1.4 Tipos de Usuários
 
@@ -32,7 +32,7 @@ Cliente:
 ### 2.1 Requisitos do Usuário
 
 O usuário alvo aqui é o Cliente, ele realiza as ações especificadas no
-[diagrama de caso de uso][caso_de_uso.puml].
+[diagrama de caso de uso](caso_de_uso.puml).
 
 ### 2.2 Requisitos Não Funcionais
 
