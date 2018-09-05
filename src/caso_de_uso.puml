@@ -1,0 +1,14 @@
+
+@startuml
+
+Usuario as usr
+
+usr -left-> (Acessar conta)
+usr -up-> (Consultar saldo)
+usr -down-> (Consultar extrato)
+usr -down-> (Pagar conta)
+usr -up-> (Fazer transferência)
+usr -right-> (Contratar empréstimo)
+
+@enduml
+
