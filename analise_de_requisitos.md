@@ -23,9 +23,10 @@ encontrado [aqui](src/caso_de_uso.puml).
 
 ### 1.4 Tipos de Usuários
 
-Cliente:
-	É o cliente do banco. Ele tem uma conta no banco Bradesco e é capaz de
-	realizar operações com ela através do sistema aqui definido.
+- Cliente:
+
+É o cliente do banco. Ele tem uma conta no banco Bradesco e é capaz de
+realizar operações com ela através do sistema aqui definido.
 
 ## 2. Análise e Especificação do Sistema
 
