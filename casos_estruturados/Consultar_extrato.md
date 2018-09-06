@@ -15,5 +15,7 @@ O Cliente deve estar logado neste sistema.
 
 ### Fluxo primário
 
-1. O Cliente esco
+1. O Cliente seleciona a opção de consultar seu extrato;
+2. O sistema mostra ao cliente o extrato;
+3. O Cliente seleciona a opção de deixar de ver o extrato.
 
