@@ -7,7 +7,7 @@ Consultar extrato.
 
 Como em toda conta bancária normal, o Cliente realiza movimentações financeiras
 e elas são registradas no sistema do banco. Depois de realizá-las, ele pode
-consultá-las pelo uso deste sistema.
+consultá-las pelo extrato informado por este sistema.
 
 ### Pré-condições
 
