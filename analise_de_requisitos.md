@@ -18,7 +18,7 @@ obtenção de nota, imagino, esta análise me foi requerida.
 
 O suposto banco cliente necessita que seus clientes, usuários principais do
 sistema, sejam capazes de realizar as ações definidas no 
-[diagrama de caso de uso](caso_de_uso.png), cujo código fonte pode ser
+[diagrama de caso de uso][], cujo código fonte pode ser
 encontrado [aqui](src/caso_de_uso.puml).
 
 ### 1.4 Tipos de Usuários
@@ -33,7 +33,7 @@ realizar operações com ela através do sistema aqui definido.
 ### 2.1 Requisitos do Usuário
 
 O usuário alvo aqui é o Cliente, ele realiza as ações especificadas no
-[diagrama de caso de uso](caso_de_uso.puml). Para dois destes casos de uso,
+[diagrama de caso de uso][]. Para dois destes casos de uso,
 fiz o caso de uso estruturado, que podem ser encontrados na pasta
 [casos_estruturados/](casos_estruturados/).
 
@@ -43,4 +43,6 @@ Quanto às tecnologias, nada foi especificado pelo nosso cliente (o banco
 Bradesco, não confundir com o Cliente do banco Bradesco), mas imagino que ele
 deseje um sistema acessável por um navegador web ou um por um aplicativo de
 celular.
+
+[diagrama de caso de uso]: caso_de_uso.png
 
