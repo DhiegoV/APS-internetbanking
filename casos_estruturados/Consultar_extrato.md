@@ -19,5 +19,6 @@ O Cliente deve estar logado (vide [Acessar conta][]) neste sistema.
 
 1. O Cliente seleciona a opção de consultar seu extrato;
 2. O sistema mostra ao cliente o extrato;
-3. O Cliente seleciona a opção de deixar de ver o extrato.
+3. O Cliente seleciona a opção de deixar de ver o extrato;
+4. O sistema mostra a tela anterior ao Cliente.
 
