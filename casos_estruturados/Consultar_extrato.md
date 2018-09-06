@@ -9,7 +9,7 @@ Como em toda conta bancária normal, o Cliente realiza movimentações financeir
 e elas são registradas no sistema do banco. Depois de realizá-las, ele pode
 consultá-las pelo extrato informado por este sistema.
 
-### Pré-condições
+### Pré-condição
 
 O Cliente deve estar logado (vide [Acessar conta][]) neste sistema.
 

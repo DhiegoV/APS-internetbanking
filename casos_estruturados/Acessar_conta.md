@@ -23,7 +23,7 @@ O Cliente deve ter uma conta no banco Bradesco.
 3. O Cliente confirma seus dados.
 4. O sistema permite que o Cliente acesse sua conta.
 
-### Pós-condições
+### Pós-condição
 
 O Cliente deve estar logado em sua conta ao final da operação.
 
