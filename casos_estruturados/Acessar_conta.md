@@ -31,7 +31,7 @@ O Cliente deve estar logado em sua conta ao final da operação.
 
 Entre 3 e 4, o Cliente pode ter colocado dados que não se correspondem, logo
 
-1. O sistema informa o usuário que os dados informados não são correspondentes;
+1. O sistema informa ao Cliente que os dados informados não são correspondentes;
 2. O sistema mostra novamente os campos de entrada;
-3. O usuário corrige seus erros.
+3. O Cliente corrige seus erros.
 
