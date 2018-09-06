@@ -39,7 +39,8 @@ fiz o caso de uso estruturado, que podem ser encontrados na pasta
 
 ### 2.2 Requisitos Não Funcionais
 
-Quanto às tecnologias, nada foi especificado pelo nosso cliente (não confundir
-com o Cliente do banco Bradesco), mas imagino que ele deseje um sistema
-acessável por um navegador web ou um por um aplicativo de celular.
+Quanto às tecnologias, nada foi especificado pelo nosso cliente (o banco
+Bradesco, não confundir com o Cliente do banco Bradesco), mas imagino que ele
+deseje um sistema acessável por um navegador web ou um por um aplicativo de
+celular.
 
