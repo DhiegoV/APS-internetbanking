@@ -11,7 +11,9 @@ consultá-las pelo extrato informado por este sistema.
 
 ### Pré-condições
 
-O Cliente deve estar logado neste sistema.
+O Cliente deve estar logado (vide [Acessar conta][]) neste sistema.
+
+[Acessar conta]: Acessar_conta.md
 
 ### Fluxo primário
 
