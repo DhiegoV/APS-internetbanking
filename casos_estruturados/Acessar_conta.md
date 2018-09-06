@@ -8,7 +8,7 @@ Acessar conta.
 O Cliente pode acessar sua conta do banco Bradesco através do sistema aqui
 definido.
 
-O acesso se dá como um login tradicional, mas adequado à uma conta bancária: o
+O acesso se dá como um login tradicional, mas adequado a uma conta bancária: o
 cliente especifica o número de sua conta, agência e sua senha em campos de
 entrada.
 
